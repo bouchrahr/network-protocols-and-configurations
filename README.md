@@ -2,8 +2,11 @@
 Comprehensive networking lab collection covering routing protocols, VLANs, DHCP, DNS, and transport-layer programming.
 
 ## 📋 Lab Overview
+<img width="391" height="301" alt="Capture d'écran 2025-10-30 175627" src="https://github.com/user-attachments/assets/add785a5-7451-4033-a428-f65b332444e2" />
 
-This repository documents hands-on experience with various networking protocols and technologies, including:
+
+This repository documents hands-on experience with va![Uploading Capture d'écran 2025-10-30 175627.png…]()
+rious networking protocols and technologies, including:
 
 ### 🔧 Core Protocols Implemented
 - Routing Protocols: RIP, RIPv2, OSPF, EIGRP
