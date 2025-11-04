@@ -2,8 +2,10 @@ network-protocols-and-configurations
 
 Implemented a complete network infrastructure with OSPF, VLANs, DHCP, DNS, NAT, PAT, SNMP, and VPN, including a web interface for command automation.
 
-📋 Lab Overview
+
 <img width="391" height="301" alt="Network Topology" src="https://github.com/user-attachments/assets/add785a5-7451-4033-a428-f65b332444e2" />
+
+
 🔧 Core Protocols Implemented
 
 Routing Protocols: RIP, RIPv2, OSPF, EIGRP
