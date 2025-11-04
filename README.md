@@ -1,5 +1,5 @@
 # network-protocols-and-configurations
-Comprehensive networking lab collection covering routing protocols, VLANs, DHCP, DNS, and transport-layer programming.
+Implemented a complete network infrastructure with OSPF, VLANs, DHCP, DNS, NAT, PAT, SNMP, and VPN, including a web interface for command automation.
 
 ## 📋 Lab Overview
 
