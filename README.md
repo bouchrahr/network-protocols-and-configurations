@@ -1,42 +1,62 @@
-# network-protocols-and-configurations
+network-protocols-and-configurations
+
 Implemented a complete network infrastructure with OSPF, VLANs, DHCP, DNS, NAT, PAT, SNMP, and VPN, including a web interface for command automation.
 
-## 📋 Lab Overview
+📋 Lab Overview
+<img width="391" height="301" alt="Network Topology" src="https://github.com/user-attachments/assets/add785a5-7451-4033-a428-f65b332444e2" />
+🔧 Core Protocols Implemented
 
-<img width="391" height="301" alt="Capture d'écran 2025-10-30 175627" src="https://github.com/user-attachments/assets/add785a5-7451-4033-a428-f65b332444e2" />
+Routing Protocols: RIP, RIPv2, OSPF, EIGRP
 
+Switching & VLANs: VLAN configuration, Inter-VLAN routing
 
-### 🔧 Core Protocols Implemented
-- Routing Protocols: RIP, RIPv2, OSPF, EIGRP
-- Switching & VLANs: VLAN configuration, Inter-VLAN routing
-- Network Services: DHCP, DNS, NAT
-- Transport Layer: TCP, UDP socket programming
-- Network Layer: ICMP, ARP, IP addressing
-- Application Layer: HTTP, FTP simulations
+Network Services: DHCP, DNS, NAT, PAT, SNMP
 
+Transport Layer: TCP, UDP socket programming
 
-## 🛠️ Technologies & Tools
+Network Layer: ICMP, ARP, IP addressing
 
-- Network Simulators: Cisco Packet Tracer, GNS3
-- Protocols: RIP, RIPv2, OSPF, EIGRP, VLAN, ICMP, ARP, TCP/UDP
-- Monitoring: Wireshark for packet analysis
-- Programming: Python for socket programming
+Application Layer: HTTP, FTP simulations
 
-## 🎯 Key Experiments
+Automation: Web interface for command injection and control
 
-1. Dynamic Routing: Configured and compared RIP, RIPv2, OSPF, and EIGRP
-2. Network Segmentation: Implemented VLANs and Inter-VLAN routing
-3. Socket Programming: Developed TCP/UDP client-server applications
-4. Protocol Analysis: Used Wireshark to analyze ARP, ICMP, and routing protocols
-5. Network Services: Set up DHCP, DNS, and NAT services
+🛠️ Technologies & Tools
 
-## 📊 Skills Demonstrated
+Network Simulators: Cisco Packet Tracer, GNS3
 
-- Network design and configuration
-- Protocol implementation and troubleshooting
-- Network segmentation and security
-- Real-time data exchange understanding
-- Problem-solving in complex network environments
+Protocols: RIP, RIPv2, OSPF, EIGRP, VLAN, ICMP, ARP, TCP/UDP, SNMP
+
+Monitoring: Wireshark for packet and SNMP analysis
+
+Programming: Python for socket programming and web automation
+
+🎯 Key Experiments
+
+Dynamic Routing: Configured and compared RIP, RIPv2, OSPF, and EIGRP
+
+Network Segmentation: Implemented VLANs and Inter-VLAN routing
+
+Socket Programming: Developed TCP/UDP client-server applications
+
+Protocol Analysis: Used Wireshark to analyze ARP, ICMP, and routing protocols
+
+Network Services: Set up DHCP, DNS, NAT, and SNMP services
+
+Automation Lab: Created a web interface to automate network command execution
+
+📊 Skills Demonstrated
+
+Network design and configuration
+
+Protocol implementation and troubleshooting
+
+Network automation and SNMP management
+
+Network segmentation and security
+
+Real-time data exchange understanding
+
+Problem-solving in complex network environments
 
 ---
 
